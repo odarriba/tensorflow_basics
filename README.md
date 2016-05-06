@@ -1,2 +1,2 @@
 # tensorflow_basics
-Repo to play a bit with TensorFlow
+Repository to play a bit with TensorFlow
