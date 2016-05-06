@@ -170,3 +170,6 @@ ENV/
 
 # sftp configuration file
 sftp-config.json
+
+# Ignore data
+MNIST_data
